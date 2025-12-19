@@ -25,6 +25,19 @@ Most of my projects are learning-driven: I try to build things from scratch, rea
 
 ## 🚀 Featured Projects
 
+### 🎥 `roundtable` - Video Conferencing App (Full Stack)
+A minimal end-to-end video conferencing application built to understand real-time communication systems.
+
+- Authenticated users can create meetings and join via links
+- WebRTC for peer-to-peer audio/video
+- Socket.IO–based signaling
+- Clean handling of peer lifecycle (join, leave, cleanup)
+- Smooth and Modern UI
+  
+**Concepts:** JWT, WebRTC, socket.io, signaling, real-time systems
+
+---
+
 ### 🕒 `jobmngr` — In-memory Job Scheduler (Python)
 A simple job scheduler that manages timed task execution using core Python constructs.  
 Focuses on scheduling logic, time management, and internal state rather than external frameworks.
@@ -41,19 +54,11 @@ Built to explore CLI ergonomics, persistence, and minimal user-facing tooling.
 
 ---
 
-### 🛰 `coverage-visualiser-web`
+### 🛰 `coverage-visualiser-web` - Exploring real life algorithms
 A web-based visualiser for drone area-coverage algorithms, hosted on Vercel.  
 Built to understand and compare algorithmic behavior visually rather than just numerically.
 
 **Concepts:** greedy algorithms, visualisation, algorithm intuition
-
----
-
-### 🏭 `autoclave-project` (Internship)
-A data integration and automated reporting tool developed during an internship.  
-Focused on automating real-world workflows and generating structured reports.
-
-**Concepts:** data pipelines, automation, practical software constraints
 
 ---
 
