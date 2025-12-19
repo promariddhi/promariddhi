@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I’m Proma 👋
 
-<!--
-**promariddhi/promariddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend- and systems-oriented developer interested in how software works **beneath abstractions**.  
+I like building small but real tools to understand scheduling, state, algorithms, and system behavior.
 
-Here are some ideas to get you started:
+Most of my projects are learning-driven: I try to build things from scratch, reason about trade-offs, and keep the scope intentionally minimal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Current Focus
+- Backend & systems fundamentals (state, time, scheduling, data flow)
+- Building developer tools and algorithm visualisations
+- Learning by implementing concepts end-to-end rather than relying on frameworks
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python (primary), JavaScript  
+- **Backend:** Python standard library, basic networking & concurrency concepts  
+- **Frontend (when needed):** React, Tailwind CSS  
+- **Databases:** PostgreSQL, SQLite  
+- **Other:** Linux basics, CLI tooling, Unity (simulation/visualisation)
+
+---
+
+## 🚀 Featured Projects
+
+### 🕒 `jobmngr` — In-memory Job Scheduler (Python)
+A simple job scheduler that manages timed task execution using core Python constructs.  
+Focuses on scheduling logic, time management, and internal state rather than external frameworks.
+
+**Concepts:** scheduling, priority queues, concurrency, daemons and ipc
+
+---
+
+### ⏱ `projtimer` — CLI Project Time Tracker (Python)
+A command-line tool to track total time spent on projects.  
+Built to explore CLI ergonomics, persistence, and minimal user-facing tooling.
+
+**Concepts:** CLI design, state persistence, developer tooling
+
+---
+
+### 🛰 `coverage-visualiser-web`
+A web-based visualiser for drone area-coverage algorithms, hosted on Vercel.  
+Built to understand and compare algorithmic behavior visually rather than just numerically.
+
+**Concepts:** greedy algorithms, visualisation, algorithm intuition
+
+---
+
+### 🏭 `autoclave-project` (Internship)
+A data integration and automated reporting tool developed during an internship.  
+Focused on automating real-world workflows and generating structured reports.
+
+**Concepts:** data pipelines, automation, practical software constraints
+
+---
+
+## 📌 Notes
+- Some projects are intentionally incomplete or experimental — they exist to support learning.
+- I prefer depth over polish and fundamentals over abstractions.
+- I’m gradually refining and consolidating projects as my understanding improves.
+
+---
+
+If you’re interested in systems, backend fundamentals, or learning-oriented projects, feel free to explore the repositories.
